@@ -1,5 +1,5 @@
 # Admin
-akun admin
+Koneksi admin
 
 <?php
   $host = 'localhost';
